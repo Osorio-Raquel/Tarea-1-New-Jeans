@@ -22,7 +22,7 @@
                     <h2 class="mb-4 text-center">Bienvenido</h2>
                     <v-text-field
                       v-model="username"
-                      label="Usuario"
+                      label="Username"
                       prepend-inner-icon="mdi-account"
                       outlined
                       dense
