@@ -11,7 +11,7 @@ En este repositorio encontrarás dos carpetas principales:
   *(Se sigue el procedimiento enseñado en clase.)*
   - LAS PRUEBAS SE HACEN EN SWAGGER
 
-## 📁 front
+##  front
 - El frontend fue desarrollado en **Vue**.
 - Para levantar el frontend:
   1. Abre la terminal en la carpeta del `front`.
@@ -28,7 +28,7 @@ En este repositorio encontrarás dos carpetas principales:
      npm run dev
      ```
 
-## 🚀 Funcionamiento
+##  Funcionamiento
 - Cuando **backend** y **frontend** están levantados, el sistema funciona correctamente.
 - El flujo de autenticación incluye el envío de **tokens**.
 - El backend fue **probado usando Swagger** y todo funcionó de manera correcta.
