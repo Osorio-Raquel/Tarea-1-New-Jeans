@@ -1,5 +1,8 @@
 # Tarea-1-New-Jeans
-
+# ARIAS MAYTA, SERGIO ALEJANDRO
+# FERNANDEZ SILVA, JEAN MARCO
+# MOLLINEDO DAVILA, ALINA
+# OSORIO MAMANI, RAQUEL
 # Proyecto Full Stack
 
 En este repositorio encontrarás dos carpetas principales:
