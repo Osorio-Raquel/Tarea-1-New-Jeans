@@ -1,0 +1,21 @@
+@import './base.css';
+
+#app {
+  margin: 0;
+  font-weight: normal;
+  width: 100vw;   /* Full viewport width */
+  height: 100vh;  /* Full viewport height */
+  box-sizing: border-box; /* Ensures padding is included in the height and width */
+  overflow: hidden; /* Prevents scrolling */
+}
+
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+
